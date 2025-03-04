@@ -3,5 +3,5 @@
 
 int main()
 {
-    Window window(1000, 1000, std::string{ "SetPlot" });
+    Window window(800, 600, std::string{ "Ultimative CookieClicker" });
 }

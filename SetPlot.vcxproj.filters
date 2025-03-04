@@ -21,6 +21,9 @@
     <ClCompile Include="Source\Window.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Include\Window.hpp">
@@ -31,6 +34,9 @@
     </ClInclude>
     <ClInclude Include="Include\SafeQueue.hpp">
       <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.hpp">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
