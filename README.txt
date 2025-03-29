@@ -30,5 +30,3 @@ Cookie Clicker ist ein Idle-Game, bei dem durch das Klicken auf einen Keks **Kek
 - Danach gilt das Spiel als abgeschlossen – kann jedoch beliebig weitergespielt werden.
 
 ---
-
-Viel Spaß beim Klicken! 😄
