@@ -1,20 +1,34 @@
-Abgabeprojekt für das Fach C++ von Mihoshi Nakamura
+# 🍪 Cookie Clicker – Abgabeprojekt für das Fach C++
 
-Verwendete Bibliotheken:
+> Erstellt im Rahmen des C++-Moduls von **Mihoshi Nakamura**
 
-SFML
+---
 
-Genutzte Hilfsmittel:
+## 📚 Verwendete Bibliotheken
 
-ChatGPT
-GitHub Copilot
-Stack Overflow
-Adobe Firefly (Bilder)
+- [SFML](https://www.sfml-dev.org/) – Simple and Fast Multimedia Library
 
-Für das Aufsetzen dieses Projektes wurde ein Template von GitHub verwendet:
-https://github.com/Elanif/SFML-Template.git
+## 🛠️ Genutzte Hilfsmittel
 
-Spielregeln:
-Das Spiel Cookie Clicker basiert darauf, durch das Klicken auf einen Keks Kekse zu generieren. Diese Kekse können verwendet werden, um Upgrades zu kaufen, die die Keksproduktion weiter steigern. Der Spieler durchläuft verschiedene Levels, die anhand der produzierten Kekse pro Sekunde (Cookies per Second, CPS) berechnet werden. Das Spiel gilt als abgeschlossen, sobald der Spieler das Level "God" erreicht hat, was bedeutet, dass mindestens 100.000 Kekse pro Sekunde generiert werden müssen.
+- ChatGPT
+- GitHub Copilot
+- Stack Overflow
+- Adobe Firefly (für Bilder)
 
-Es ist jedoch zu beachten, dass das Spiel theoretisch unendlich weitergespielt werden kann.
+## 🚀 Projekt-Setup
+
+Dieses Projekt basiert auf folgendem GitHub-Template:  
+🔗 [SFML-Template von Elanif](https://github.com/Elanif/SFML-Template.git)
+
+## 🎮 Spielregeln
+
+Cookie Clicker ist ein Idle-Game, bei dem durch das Klicken auf einen Keks **Kekse generiert** werden. Diese können genutzt werden, um **Upgrades** zu kaufen, die die **Keksproduktion (CPS – Cookies per Second)** erhöhen.
+
+### Ziel des Spiels
+
+- Erreiche das Level **"God"** durch die Produktion von **mindestens 100.000 Keksen pro Sekunde**.
+- Danach gilt das Spiel als abgeschlossen – kann jedoch beliebig weitergespielt werden.
+
+---
+
+Viel Spaß beim Klicken! 😄
