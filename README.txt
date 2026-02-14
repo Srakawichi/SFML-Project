@@ -29,4 +29,10 @@ Cookie Clicker ist ein Idle-Game, bei dem durch das Klicken auf einen Keks **Kek
 - Erreiche das Level **"God"** durch die Produktion von **mindestens 100.000 Keksen pro Sekunde**.
 - Danach gilt das Spiel als abgeschlossen – kann jedoch beliebig weitergespielt werden.
 
----
+## Ausführen
+
+```bash
+git clone https://github.com/Srakawichi/SFML-Project.git
+cd SFML-Project
+start SetPlot.sln
+```
